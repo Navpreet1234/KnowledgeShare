@@ -1,16 +1,16 @@
-html{
-  background: #393e46;
-}
 body{
-  margin: 0 5vw 0 5vw;
-  padding:2% 3% 12% 3%;
-  background: white;
-  border-left: 1.5vw solid #00adb5;
-  border-right:  1.5vw solid #00adb5;
+  margin: 10 10vw 10 10vw;
+  padding:3% 3% 12% 3%;
+
+  border-left: 3vw solid #00adb5;
+  border-right:  3vw solid #00adb5;
+  border-top: 3vw solid #00adb5;
+  border-bottom: 3vw solid #00adb5;
+  background:yellow;
 }
 .btn{
   margin-top: 30px;
-  background: #222831 ;
+  background: green ;
   color: white;
 }
 .btn:hover{
