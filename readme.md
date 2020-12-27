@@ -13,7 +13,7 @@
 ### KHARAGPUR WINTER OF CODE (KWOC'20)
 <div >
 <img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" alt="kwoc20" height="300" width="300"/>
-  </div>
+</div>
  
 ### Languages used
 HTML
@@ -68,3 +68,17 @@ CSS
 > git pull upstream
 
  <strong> Do Star this Repository :star2:</strong>
+
+<br/>
+  <p> 
+ Dark Mode ON:
+    <div>
+    <img src="https://lh3.googleusercontent.com/g3ct3eAbe3dn1don155N9f_FcTC5MxUEBl2OWvhxqeSRQ1r-9gCh9uFxlPTmUISFrHWfzwc9wHf8YEeQwYhA5WMd1lzL6J_X3mbo0aV1d5C3hpf7TSSGTdvmdQuL4CPOtLHdCeK9ZczWXfYrHPRvjVg6jGoQXhfqFOevxWrsf2Ho1jpkHUrtw98xwHA85vwgKUqEkXXUzmiVHK_qcXjCbCm9_AW21eRCPmeFXurasUh9ISgDJuRZYd1BaDE7smrqkFswF61IUHH5e3JJ8Ha76OBnM4u5u8mY4no26DMYyfzoYrILvS4R6-RIu3XWrdJPU8nCe-wSkzn281tFJSgKbE0wqdtSENnZNz5syxR49bPq5Or7f_gEkHNKqs5ecbvRguYquWX2pxyE057RA68Gjxb64hD4mpgpkPirC7v4hNucAdh7XkkES6g4sHdOx2MGANg5UCqbAcmkfDQ9J-JRKFdi5sEtvkLzMBSzJU8V9RW8MgZP11uifLX79r9dKlliJSQaKD4q-xxgxomRWhFCjsjNen0KzdC3b8WTm0081dFYwYZLL6FYdsUdmAu-oMdmyqxJTbstBT6EPTR26jQLxKPLDEx-abijpiN2048RVVZS3GS_Fzv1f3fTKTci1Afwll9jHy3jCUcD3IHgkcGG2vOPvYp5ZWLYlffg-hZiOXeebbQmpVDmoFjmcr9Y7Q=w1355-h589-no?authuser=0" height="350" width="800"/>
+  </div>
+  </p>
+  <p>
+Dark Mode OFF:
+  <div>
+    <img src="https://lh3.googleusercontent.com/qEwAqdDzl384CDTkFV772YNaJyUmjm1b4JGCMLNCgfqwY8dyNQiGnxK62VF9hBOujaIy6DsvWFelWSPdxNq-Xd16FacBH_u4W6_Q88E4ou0noarvSE9g2aYNDVRtQ4heL8On8TeoNsxUsfxpjnzoAbvqP4YU4SLAHbkJwKodV5mZRjuYJFO3U3tslaLvLgZZ67vFBg5sOCxiBeCE8XQpgMe_y07ge3xhj_lr1OzfV_Z0VFc4VGziNpliRd7vSvADlHPsHbG97gAJZ1qbOw5_U2I2xGHtBcHqlFsN36tz3YuW0slCXo8v9hIR013zSnNCX8Wzpt7DZ8kN2ED2ayq2sRF97Uaopwr1TcMIc71EdwzU2ZuWZqC-cuBz_i_mec9-ohv135rtkSK6Ik1Mz9xoA92zur6Z1DyC7j_FgJpwOOMwB3CqoB7h0Iw5u9Y6AGLjYQYtg210mjMv04c213Y1t4p6-QA0RttKyfFw9Ti2BxYPW_MVLauBotyw0ZJAL7b2LSI0fPouVLvT52wf3OgUl9WcHiIpU_DrbT1PI8o42xrPUT8D-YSckIndPg9hm3IORJpbn-iTTCFxk3sjsF9BxFy3rGKuirt2CBfQCi4RuyDcpxwN_ycOweNewtRe7So_4no0Kge9e1rEdItmPvjcphWcAaqilgJV-YAthKcVBkgg2dhNZZtA04SYq6b80A=w1342-h593-no?authuser=0" height="350" width="800"/>
+  </div>
+  </p>
