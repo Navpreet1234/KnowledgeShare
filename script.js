@@ -7,6 +7,8 @@ $( ".inner-switch" ).on("click", function() {
       $( ".inner-switch" ).text( "ON" );
     }
 });
+
+
 var el = document.getElementById('date');
 el.onchange = function() {
     if (el.value === '') {
