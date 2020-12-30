@@ -69,6 +69,8 @@ CSS
 
  <strong> Do Star this Repository :star2:</strong>
 
+![Screenshot](https://github.com/Navpreet1234/KnowledgeShare/blob/main/Screenshot%20(84).png)
+
 <br/>
   <p> 
  Dark Mode ON:
